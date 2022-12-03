@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Web
 - 🌱 I’m currently learning Frontend and Backend
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me @arigunawanj on Instagram
 
 <!---
 arigunawanj/arigunawanj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
